@@ -17,11 +17,11 @@
 
 ## Other profiles
 
-* @alekseynemiro - main profile
-* @meet-aleksey - virtual
+* [@alekseynemiro](https://github.com/alekseynemiro) - main profile
+* [@meet-aleksey](https://github.com/meet-aleksey) - virtual
 
 ## Links
 
-🇺🇸 https://medium.com/@alekseynemiro
-🇷🇺 https://vk.com/aleksey.developer
+* 🇺🇸 https://medium.com/@alekseynemiro
+* 🇷🇺 https://vk.com/aleksey.developer
 
